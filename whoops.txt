@@ -1,0 +1,3 @@
+My FIRST LINE IN A+ OpeningThis is an added line, because I used a+ mode
+This is an added line, because I used a+ mode
+This is a second line on a new line
